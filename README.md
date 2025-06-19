@@ -27,7 +27,7 @@ Taidacent RS485 Soil NPK pH 센서를 위한 Python 라이브러리
 
 ```bash
 # 저장소 클론
-git clone https://github.com/yourusername/ec-sensor.git
+git clone https://github.com/jihk321/ec-sensor.git
 cd ec-sensor
 
 # 필요한 라이브러리 설치
